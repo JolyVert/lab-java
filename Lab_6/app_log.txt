@@ -1,0 +1,38 @@
+[2026-06-11 11:27:32] [INFO] Uruchomienie aplikacji.
+[2026-06-11 11:27:57] [INFO] Użytkownik kliknął 'Wczytaj plik'.
+[2026-06-11 11:28:29] [INFO] Pomyślnie załadowano plik: C:\Users\Anton\PycharmProjects\SystemyWizyjne\Lab8\IMG_2423.jpg
+[2026-06-11 11:29:07] [INFO] Wykonanie operacji: Negatyw
+[2026-06-11 11:29:11] [INFO] Wykonanie operacji: Progowanie
+[2026-06-11 11:29:21] [INFO] Wykonanie operacji: Konturowanie
+[2026-06-11 11:29:24] [INFO] Wykonanie operacji: Konturowanie
+[2026-06-11 11:29:42] [INFO] Przeskalowano obraz do: 500x3000
+[2026-06-11 11:29:51] [INFO] Przeskalowano obraz do: 500x300
+[2026-06-11 11:30:07] [INFO] Przeskalowano obraz do: 500x300
+[2026-06-11 12:31:20] [INFO] Zamknięcie aplikacji.
+[2026-06-16 09:30:55] [INFO] Uruchomienie aplikacji.
+[2026-06-16 09:33:34] [INFO] Użytkownik kliknął 'Wczytaj plik'.
+[2026-06-16 09:34:01] [INFO] Pomyślnie załadowano plik: C:\Users\Anton\PycharmProjects\SystemyWizyjne\Lab6\rynek_frag.jpg
+[2026-06-16 09:34:16] [INFO] Wykonanie operacji: Negatyw
+[2026-06-16 09:34:20] [INFO] Wykonanie operacji: Progowanie
+[2026-06-16 09:34:27] [INFO] Wykonanie operacji: Konturowanie
+[2026-06-16 09:34:44] [INFO] Przeskalowano obraz do: 600x800
+[2026-06-16 09:34:54] [INFO] Przeskalowano obraz do: 600x2000
+[2026-06-16 09:35:04] [INFO] Przeskalowano obraz do: 100x2000
+[2026-06-16 09:35:59] [INFO] Przeskalowano obraz do: 1265x1686
+[2026-06-16 09:36:06] [INFO] Przeskalowano obraz do: 1265x1686
+[2026-06-17 14:48:09] [INFO] Uruchomienie aplikacji.
+[2026-06-17 14:48:17] [INFO] Użytkownik kliknął 'Wczytaj plik'.
+[2026-06-17 14:48:32] [INFO] Pomyślnie załadowano plik: C:\Users\Anton\PycharmProjects\SystemyWizyjne\Lab6\rynek_frag.jpg
+[2026-06-17 14:48:37] [INFO] Wykonanie operacji: Negatyw
+[2026-06-17 14:48:40] [INFO] Wykonanie operacji: Progowanie
+[2026-06-17 14:48:50] [INFO] Wykonanie operacji: Konturowanie
+[2026-06-17 15:48:02] [INFO] Uruchomienie aplikacji.
+[2026-06-17 15:48:27] [INFO] Użytkownik kliknął 'Wczytaj plik'.
+[2026-06-17 15:48:42] [INFO] Pomyślnie załadowano plik: C:\Users\Anton\PycharmProjects\SystemyWizyjne\Lab6\rynek_frag.jpg
+[2026-06-17 15:49:04] [INFO] Przeskalowano obraz do: 1265x800
+[2026-06-17 15:49:08] [INFO] Przeskalowano obraz do: 1265x1686
+[2026-06-17 15:49:12] [INFO] Wykonanie operacji: Negatyw
+[2026-06-17 15:49:19] [INFO] Wykonanie operacji: Progowanie
+[2026-06-17 15:49:27] [INFO] Wykonanie operacji: Konturowanie
+[2026-06-17 15:49:41] [INFO] Zapisano plik: C:\Users\Anton\Pictures\result.jpg
+[2026-06-17 15:49:52] [INFO] Zapisano plik: C:\Users\Anton\Pictures\result.jpg
