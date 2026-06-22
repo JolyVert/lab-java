@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "Lab7",
+    "buildTool": "maven",
+    "cacheProvider": null,
+    "clientFramework": "angular",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1781604541671,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "enableHibernateCache": null,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "NDA4NzIzM2IzMGYyNDhmYjBlZjZiZDYyOGRlYWQyNDQ3NTBiMWI2ZTA2OGQ3MTFmMDNkNjJhOTg2ZTYzYzViZGQ0YWE3MTIxMmU0NWY5MjdiZjgyMmYxYTQ0YzdkN2QzOWY5OWQ3NDQ2OTc2ODIzZWZmYWE4MDMxZDI4NTEzNjc=",
+    "languages": ["en"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.mycompany.myapp",
+    "prodDatabaseType": "mysql",
+    "reactive": true,
+    "serverPort": null,
+    "serviceDiscoveryType": null,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
